@@ -1,7 +1,5 @@
----
-banner: "![[banner.jpg]]"
-banner_y: 1
----
+![Banner](https://github.com/Hollow-BLE-LoRa-messager/.github/tree/main/profile/banner.jpg)
+
 # 🔏Конфиденциальный мессенджер на базе LoRa и BLE
 __________________________________________________________________________
 ### 🛑Hollow: 
