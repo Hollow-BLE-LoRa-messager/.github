@@ -1,4 +1,8 @@
-![Banner](https://github.com/Hollow-BLE-LoRa-messager/.github/tree/main/profile/banner.jpg)
+<div id="hello" align="center">
+  <h1>
+    <img src="https://github.com/Hollow-BLE-LoRa-messager/.github/tree/main/profile/banner.jpg"/>
+  </h1>
+</div>
 
 # 🔏Конфиденциальный мессенджер на базе LoRa и BLE
 __________________________________________________________________________
